@@ -47,6 +47,6 @@ def main():
                     print("Game Over")
                     break   
         else:
-            print("Enter a proper letter!")           
+            print("Enter a proper letter!\n")           
 
 main()
