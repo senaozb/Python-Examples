@@ -1,5 +1,5 @@
 # This program is a game in which the user tries to find the hidden fruit
-# Level: Beginner
+# Level: Easy
 
 import random
 
